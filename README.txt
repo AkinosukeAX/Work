@@ -1,5 +1,7 @@
 You must execute 1~3 at the workspace where ATLAS library is available.
 
+Under "Decoder" directory, 
+
 1 -  how to download RAW data
    $eos cp ${filepath} FileName.data
    
@@ -15,6 +17,8 @@ You must execute 1~3 at the workspace where ATLAS library is available.
 
    You can do these prosedures by shell script "All_data17_13TeV.sh"
    $sh All_data17_13TeV.sh 00341294(RunNumber) 172(lbNumber) 1(SFONumber)
+
+ Under "Work" directory,
 
 4 -  how to read and make plots using the code prepared in the list (1)
    $make
