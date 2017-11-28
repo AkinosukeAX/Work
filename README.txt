@@ -14,7 +14,7 @@ You must execute 1~3 at the workspace where ATLAS library is available.
    $./decoder -I InputFileName.data -b -O OutputFileName.root
 
    You can do these prosedures by shell script "All_data17_13TeV.sh"
-   $sh All_data17_13TeV.sh 00341123(RunNumber) 100(lbNumber) 1(SFONumber)
+   $sh All_data17_13TeV.sh 00341294(RunNumber) 172(lbNumber) 1(SFONumber)
 
 4 -  how to read and make plots using the code prepared in the list (1)
    $make
